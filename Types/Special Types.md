@@ -92,4 +92,3 @@ undefined and null are types that refer to the JavaScript primitives undefined a
 let y: undefined = undefined;
 let z: null = null;
 ```
-
