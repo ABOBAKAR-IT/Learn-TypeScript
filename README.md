@@ -25,4 +25,4 @@ tsc file.ts
 ### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Object/Object.md">Object</a>
 
 ## Enums
-### <a href="">Enums</a>
+### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Enums/Enums.md">Enums</a>
