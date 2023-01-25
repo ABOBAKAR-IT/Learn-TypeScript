@@ -19,8 +19,10 @@ tsc file.ts
 
 ## Array
 ### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Array/array.md">Array</a>
-### <a href="">Tuples</a>
+### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Array/tuples.md">Tuples</a>
 
 ## Object
-### <a href=">Object</a>
-### <a href="">Optional Properties</a>
+### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Object/Object.md">Object</a>
+
+## Enums
+### <a href="">Enums</a>
