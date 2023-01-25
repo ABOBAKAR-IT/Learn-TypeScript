@@ -9,7 +9,7 @@ You can declare a tuple by specifying the types of the elements inside square br
 ```
 let person: [string, number, boolean] = ["Alice", 25, true];
 ```
-readonly tuples
+## readonly tuples
 ```
 let person: readonly [string, number, boolean] = ["Alice", 25, true];
 person.push(1); // Error
