@@ -26,3 +26,19 @@ tsc file.ts
 
 ## Enums
 ### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Enums/Enums.md">Enums</a>
+
+## Aliases
+### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Aliases/Aliases.md"></a>Aliases</a>
+
+## Interfaces
+### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Interfaces/Interfaces.md"></a></a>Interface</a>
+
+## Union
+### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Union/Union.md"></a></a>Union</a>
+
+## Function
+### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Function/Function.md"></a></a>Function</a>
+
+
+
+
