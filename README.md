@@ -1,44 +1,45 @@
 # Learn TypeScript
 
-## install typescript
+## Install TypeScript
+To install TypeScript globally, use the following command:
 
 ```
 npm install -g typescript
 ```
-## run typescript file
+
+## Run a TypeScript File
+After writing your TypeScript file (e.g., `file.ts`), compile it with:
+
 ```
 tsc file.ts
 ```
-## typescript command
-<a href="">typescript command</a>
 
+## TypeScript CLI Commands
+For a complete list of TypeScript commands, check the official documentation:  
+[TypeScript CLI Commands](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/command.md)
 
 ## Types
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Types/simple%20types.md">Simple Types</a>
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Types/Special%20Types.md">Special Types</a>
+- [Simple Types](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Types/SimpleTypes.md)
+- [Special Types](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Types/SpecialTypes.md)
 
 ## Array
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Array/array.md">Array</a>
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Array/tuples.md">Tuples</a>
+- [Array](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Array/array.md)
+- [Tuples](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Array/tuples.md)
 
 ## Object
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Object/Object.md">Object</a>
+- [Object](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Object/Object.md)
 
 ## Enums
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Enums/Enums.md">Enums</a>
+- [Enums](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Enums/Enums.md)
 
 ## Aliases
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Aliases/Aliases.md"></a>Aliases</a>
+- [Aliases](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Aliases/Aliases.md)
 
 ## Interfaces
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Interfaces/Interfaces.md"></a></a>Interface</a>
+- [Interfaces](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Interfaces/Interfaces.md)
 
 ## Union
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Union/Union.md"></a></a>Union</a>
+- [Union](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Union/Union.md)
 
-## Function
-### <a href="https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Function/Function.md"></a></a>Function</a>
-
-
-
-
+## Functions
+- [Functions](https://github.com/ABOBAKAR-IT/Learn-TypeScript/blob/master/Function/Function.md)
